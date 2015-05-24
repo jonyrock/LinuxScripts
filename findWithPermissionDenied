@@ -1,0 +1,1 @@
+find / -name "someFile" -type f 2>&1 | sed '/Permission denied/d;'
