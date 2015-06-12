@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Brogrammer.tmTheme",
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save" : false,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
