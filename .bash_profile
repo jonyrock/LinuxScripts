@@ -18,4 +18,4 @@ export COCOS_TEMPLATES_ROOT=$COCOS_ROOT/templates
 export PATH=$COCOS_TEMPLATES_ROOT:$COCOS_CONSOLE_ROOT:$PATH
 export PATH=$ANDROID_SDK_ROOT/platform-tools/:$PATH
 export PATH=$ANDROID_SDK_ROOT/tools/:$PATH
-export PATH=$ANDROID_SDK_ROOT/build-tools/22.0.1/
+export PATH=$ANDROID_SDK_ROOT/build-tools/22.0.1/:$PATH
